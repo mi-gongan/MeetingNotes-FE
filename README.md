@@ -13,3 +13,8 @@ npm install
 ```
 npm run dev
 ```
+
+## 기능
+
+- 녹화를 시작한 지점으로부터 chunks가 일정 크기만큼 쌓일때마다 주기적으로 백엔드로 audio 파일을 formdata에 담아 전송
+- 받은 데이터를 화면에 뿌려줌
