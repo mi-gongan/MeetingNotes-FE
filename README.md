@@ -4,13 +4,8 @@
 
 ## Getting started
 
-### 패키지 설치
-
 ```
 npm install
-```
-
-```
 npm run dev
 ```
 
